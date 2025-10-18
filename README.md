@@ -2,7 +2,7 @@
 
 Submitted by: Obaloluwa Wojaude
 
-Bit FIt is a health metrics app that allows users to track ... [TODO] 
+Bit FIt is a health metrics app that allows users to track calories throughout the day
 
 Time spent: 9 hours spent in total
 
